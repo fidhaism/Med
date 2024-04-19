@@ -1,0 +1,13 @@
+Server side setup
+
+--> initiate package.json
+        > npm init -y
+
+--> create package-lock.json
+        > npm i
+
+ --> create a index.js file & a db.json file
+
+--> install json-server
+        > npm i json-server [node_momdules created automatically]
+
